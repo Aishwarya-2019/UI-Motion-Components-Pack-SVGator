@@ -1,23 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>UI Micro Interaction</title>
+  <title>UI Micro-Interactions Dashboard</title>
+  <meta charset="UTF-8">
   <style>
     body {
+      margin: 0;
+      background: #f5f5f5;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      margin: 0;
-      background: #f5f5f5;
+      font-family: Arial, sans-serif;
+      flex-direction: column;
     }
-    .ui-gif {
-      width: 320px;
-      height: auto;
+
+    h1 {
+      margin-bottom: 20px;
+      font-weight: 500;
+    }
+
+    video {
+      width: 900px;
+      border-radius: 16px;
+      box-shadow: 0 15px 40px rgba(0,0,0,0.15);
     }
   </style>
 </head>
 <body>
-  <img src="project1.gif" class="ui-gif" alt="UIAnimations">
+
+  <h1>Advanced UI Micro-Interactions</h1>
+
+  <video autoplay loop muted playsinline>
+    <source src="your-animation.mp4" type="video/mp4">
+  </video>
+
 </body>
 </html>
