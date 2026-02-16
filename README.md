@@ -1,103 +1,83 @@
-# UI-Motion-Components-Pack-SVGator
-A collection of animated UI components created using SVGator.
+# Advanced UI Micro-Interactions Dashboard
 
-This project demonstrates practical UI motion design skills including micro-interactions, loaders, and notification feedback animations.
+An advanced motion design showcase built using SVGator.
 
-🎯 Project Overview
+This project demonstrates multiple modern UX micro-interactions combined into a single interactive dashboard layout.
 
-This project includes:
+---
 
-Circular Spinner Loader
+## 🚀 Included Animations
 
-Bouncing Dots Loader
+### 1. Toggle Switch (Dark Mode Interaction)
+- Smooth knob sliding
+- Sun/Moon state transition
+- Background color morph
+- Icon opacity animation
 
-Notification Bell with Swing Animation
+### 2. Animated Button
+- Press scale interaction
+- Fill transition
+- Micro bounce feedback
 
-Notification Dot Pop Effect
+### 3. Circular Loader
+- Stroke dash draw animation
+- Smooth continuous rotation
 
-All animations were built from scratch using SVG shapes and timeline-based keyframes.
+### 4. Success State Animation
+- Circular stroke draw
+- Checkmark reveal
+- Micro easing for delight
 
-No pre-made assets or external libraries were used.
+### 5. Elevation Card
+- Subtle shadow depth animation
+- Scale on hover interaction
 
-🛠 Tools Used
+### 6. Progress Bar
+- Left-anchored fill animation
+- Color transition
+- Percentage display
 
-SVGator (Free Plan)
+---
 
-SVG Shapes (Ellipse, Rectangle)
+## 🎯 Objective
 
-Timeline Keyframes
+To demonstrate:
+- UX micro-interaction principles
+- Motion hierarchy
+- State transitions
+- Visual feedback systems
+- Modern UI animation standards
 
-Transform Animations
+---
 
-Easing Controls
+## 🛠 Tools Used
 
-🎬 Animations Included
-1️⃣ Circular Spinner Loader
+- SVGator (Motion Design)
+- HTML5
+- GitHub Pages (Deployment)
 
-Stroke-based circle
+---
 
-Continuous rotation (0° → 360°)
+## 💡 Key Concepts Demonstrated
 
-Linear easing
+- Stroke Dash & Offset animation
+- Opacity transitions
+- Anchor-based scaling
+- Smooth easing curves
+- Layer hierarchy management
+- Motion timing control
 
-Infinite loop animation
+---
 
-Concepts applied:
+## 🌐 Live Demo
 
-Rotation transforms
+(After deployment paste your GitHub Pages link here)
 
-Transform origin
+---
 
-Stroke styling
+## 👩‍💻 Author
 
-2️⃣ Bouncing Dots Loader
+Aishwarya  
+UX & Motion Design Portfolio Project  
+February 2026
 
-Three sequential animated dots
-
-Position (Y-axis bounce)
-
-Staggered timing
-
-Ease-in-out motion
-
-Concepts applied:
-
-Motion rhythm
-
-Sequential animation
-
-Visual loading feedback
-
-3️⃣ Notification Bell Animation
-
-Custom-built bell using SVG shapes
-
-Proper pivot origin placement
-
-Realistic swing motion
-
-Notification dot pop effect (scale animation)
-
-Concepts applied:
-
-Transform origin control
-
-Rotation keyframes
-
-Scale multiplier animation
-
-Motion hierarchy (dot first → bell swing)
-
-UI feedback animation principles
-
-🧠 Motion Design Principles Applied
-
-Timing & spacing
-
-Easing curves
-
-Visual hierarchy
-
-Micro-interaction feedback
-
-UI animation consistency
